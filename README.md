@@ -5,3 +5,6 @@
 * IN AN OBJECT: FUNCTIONS BECOME KNOWN AS METHODS 
 ## Creating an object: Literal notation
 ### Literal notation is the easiest way and most popular way to create objects.
+![objects](https://user-images.githubusercontent.com/70091044/93000314-3f73a400-f530-11ea-8f12-f9a119eb5bf4.PNG)
+## Accessing an object and **DOT NATATION**.
+### You access the properties or methods of an object using dot notation. 
